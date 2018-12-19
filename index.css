@@ -1,0 +1,170 @@
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.header {
+  font-weight: bold;
+  font-size: 22.5px;
+  margin-top: 10px;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+.questions{
+  border-style: solid;
+  border-color: #a80818;
+}
+
+.question {
+  color: black;
+  text-align: center;
+  margin-top: 30px;
+}
+
+form {
+  text-align: center;
+  padding: 10px;
+}
+
+input[type=radio] {
+  display: none;
+}
+
+/* make image border grey */
+input:not(:checked)+label img {
+  border: 3px solid #efeff5;
+}
+
+/* if image selected change background */
+input:checked+label img {
+  border: 5px solid #a80818;
+}
+
+.form-sumbitButton {
+  margin: 0;
+  background-color: transparent;
+  text-align: center;
+  cursor: pointer;
+}
+
+/* Hover Effect and name on images */
+.hvrbox {
+	position: relative;
+	display: inline-block;
+	overflow: hidden;
+	max-width: 100%;
+	height: auto;
+}
+
+.hvrbox .hvrbox-layer_top {
+	opacity: 0;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 100%;
+	background: rgba(255,255,255, .7);
+	color: black;
+  cursor: pointer;
+}
+
+.hvrbox:hover .hvrbox-layer_top,
+.hvrbox.active .hvrbox-layer_top {
+	opacity: 1;
+}
+
+.hvrbox .hvrbox-text {
+	text-align: center;
+	font-size: 25px;
+  color: #a80818;
+  font-weight: bold;
+	display: inline-block;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-moz-transform: translate(-50%, -50%);
+	-webkit-transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+}
+
+.hvrbox .hvrbox-text_mobile {
+	font-size: 15px;
+	border-top: 1px solid rgb(179, 179, 179); /* for old browsers */
+	border-top: 1px solid rgba(179, 179, 179, 0.7);
+	margin-top: 5px;
+	padding-top: 2px;
+	display: none;
+}
+
+.hvrbox.active .hvrbox-text_mobile {
+	display: block;
+}
+
+#link{
+  border: 5px solid black;
+}
+
+.button {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:visited,
+.btn-primary:focus {
+    background-color: black;
+    border-color: black;
+}
+
+.column {
+  float: left;
+  width: 16.66%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+
+.schools {
+  margin-right: 10px;
+  font-size: 20px
+}
+
+.list-group {
+  text-align: center;
+}
+
+/* Link color change */
+a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+/* remove underline */
+a:link {
+  text-decoration: none;
+}
+
+footer {
+  padding: 40px;
+}
