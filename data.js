@@ -245,346 +245,389 @@ let schoolData = [
   {
     id: 28,
     schoolName: "College of Charleston",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/charleston",
+    size: "medium",
     location: "",
-    sports: ""
+    sports: "DI",
+    region: "south"
   },
   {
     id: 29,
     schoolName: "Colorado College",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/colorado-college",
+    size: "small",
     location: "",
-    sports: ""
+    sports: "DIII",
+    region: "west"
   },
   {
     id: 30,
     schoolName: "University of Colorado, Boulder",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/university-of-colorado-boulder",
+    size: "big",
     location: "",
-    sports: ""
+    sports: "DI",
+    region: "west"
   },
   {
     id: 31,
     schoolName: "Columbia University",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/columbia-university",
+    size: "medium",
     location: "",
-    sports: ""
+    sports: "DI",
+    region: "mid-atlantic"
   },
   {
     id: 32,
     schoolName: "Connecticut College",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/connecticut-college",
+    size: "small",
     location: "",
-    sports: ""
+    sports: "DIII",
+    region: "new england"
   },
   {
     id: 33,
     schoolName: "University of Connecticut",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/uconn",
+    size: "large",
     location: "",
-    sports: ""
+    sports: "DI",
+    region: "new england"
   },
   {
     id: 34,
     schoolName: "Cornell University",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/cornell-university",
+    size: "large",
     location: "",
-    sports: ""
+    sports: "DI",
+    region: "mid-atlantic"
   },
   {
     id: 35,
     schoolName: "Darthmouth College",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/dartmouth-college",
+    size: "small",
     location: "",
-    sports: ""
+    sports: "DI",
+    region: "new englad"
   },
   {
     id: 36,
     schoolName: "University of Delaware",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/university-of-delaware",
+    size: "large",
     location: "",
-    sports: ""
+    sports: "DI",
+    region: "mid-atlantic"
   },
   {
     id: 37,
     schoolName: "Denison University",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/dennison-university?rq=denison",
+    size: "small",
     location: "",
-    sports: ""
+    sports: "DIII",
+    region: "midwest"
   },
   {
     id: 38,
     schoolName: "University of Denver",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/university-of-denver",
+    size: "medium",
     location: "",
-    sports: ""
+    sports: "DI",
+    region: "west"
   },
   {
     id: 39,
     schoolName: "Drexel University",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/Drexel",
+    size: "large",
     location: "",
-    sports: ""
+    sports: "DI",
+    region: "mid-atlantic"
   },
   {
     id: 40,
     schoolName: "Duke University",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/duke-university",
+    size: "medium",
     location: "",
-    sports: ""
+    sports: "DI",
+    region: "south"
   },
   {
     id: 41,
     schoolName: "Elon University",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/elon-university",
+    size: "medium",
     location: "",
-    sports: ""
+    sports: "DI",
+    region: "south"
   },
   {
     id: 42,
     schoolName: "Emerson University",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/emerson-college",
+    size: "small",
     location: "",
-    sports: ""
+    sports: "DIII",
+    region: "new englad"
   },
   {
     id: 43,
     schoolName: "Emory University",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/emory-university",
+    size: "medium",
     location: "",
-    sports: ""
+    sports: "DIII",
+    region: "south"
   },
   {
     id: 44,
     schoolName: "Fairfiled University",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/fairfield",
+    size: "small",
     location: "",
-    sports: ""
+    sports: "DIII",
+    region: "new englad"
   },
   {
     id: 45,
     schoolName: "University of Florida",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/university-of-florida",
+    size: "large",
     location: "",
-    sports: ""
+    sports: "DI",
+    region: "south"
   },
   {
     id: 46,
     schoolName: "Franklin and Marshall College",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/franklin-and-marshall-college",
+    size: "small",
     location: "",
-    sports: ""
+    sports: "DIII",
+    region: "mid-atlantic"
   },
   {
     id: 47,
     schoolName: "George Washington University",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/george-washington-university",
+    size: "large",
     location: "",
-    sports: ""
+    sports: "DI",
+    region: "mid-atlantic"
   },
   {
     id: 48,
     schoolName: "Georgetown University",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/georgetown-university",
+    size: "large",
     location: "",
-    sports: ""
+    sports: "DI",
+    region: "mid-atlantic"
   },
   {
     id: 49,
     schoolName: "University of Georgia",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/university-of-georgia",
+    size: "large",
     location: "",
-    sports: ""
+    sports: "DI",
+    region: "south"
   },
   {
     id: 50,
     schoolName: "The Georgia Institute of Technology",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/georgia-tech",
+    size: "large",
     location: "",
-    sports: ""
+    sports: "DI",
+    region: "south"
   },
   {
     id: 51,
     schoolName: "Gettysburg College",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/gettysburg-college",
+    size: "small",
     location: "",
-    sports: ""
+    sports: "DIII",
+    region: "mid-atlantic"
   },
   {
     id: 52,
     schoolName: "Hamilton College",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/hamilton-college",
+    size: "small",
     location: "",
-    sports: ""
+    sports: "DIII",
+    region: "mid-atlantic"
   },
   {
     id: 53,
     schoolName: "Harvard University",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/harvard-university",
+    size: "medium",
     location: "",
-    sports: ""
+    sports: "DI",
+    region: "new englad"
   },
   {
     id: 54,
     schoolName: "Harvey Mudd College",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/harvey-mudd",
+    size: "small",
     location: "",
-    sports: ""
+    sports: "DIII",
+    region: "west"
   },
   {
     id: 55,
     schoolName: "Hobart and William Smith Colleges",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/hobart-and-william-smith-colleges",
+    size: "small",
     location: "",
-    sports: ""
+    sports: "DIII",
+    region: "mid-atlantic"
   },
   {
     id: 56,
     schoolName: "Indiana University",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/indiana-university",
+    size: "large",
     location: "",
-    sports: ""
+    sports: "DI",
+    region: "midwest"
   },
   {
     id: 57,
     schoolName: "Ithica College",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/ithaca-college",
+    size: "medium",
     location: "",
-    sports: ""
+    sports: "DIII",
+    region: "mid-atlantic"
   },
   {
     id: 58,
     schoolName: "John Hopkins University",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/johns-hopkins-university",
+    size: "small",
     location: "",
-    sports: ""
+    sports: "DIII",
+    region: "mid-atlantic"
   },
   {
     id: 59,
     schoolName: "Kenyon College",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/kenyon-college",
+    size: "small",
     location: "",
-    sports: ""
+    sports: "alert-dismissible",
+    region: "midwest"
   },
   {
     id: 60,
     schoolName: "Lehigh University",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/lehigh-university",
+    size: "medium",
     location: "",
-    sports: ""
+    sports: "DI",
+    region: "mid-atlantic"
   },
   {
     id: 61,
     schoolName: "Loyola University of New Orleans",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/loyola",
+    size: "small",
     location: "",
-    sports: ""
+    sports: "DI",
+    region: "south"
   },
   {
     id: 62,
     schoolName: "University of Maryland",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/university-of-maryland",
+    size: "large",
     location: "",
-    sports: ""
+    sports: "DI",
+    region: "mid-atlantic"
   },
   {
     id: 63,
     schoolName: "University of Massachusetts (Amherst)",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/umass",
+    size: "large",
     location: "",
-    sports: ""
+    sports: "DI",
+    region: "new englad"
   },
   {
     id: 64,
     schoolName: "Massachusetts Institute of Technology (MIT)",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/massachusetts-institute-of-technology",
+    size: "small",
     location: "",
-    sports: ""
+    sports: "DIII",
+    region: "new englad"
   },
   {
     id: 65,
     schoolName: "University of Miami",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/university-of-miami",
+    size: "large",
     location: "",
-    sports: ""
+    sports: "DI",
+    region: "south"
   },
   {
     id: 66,
     schoolName: "University of Michigan",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/university-of-michigan",
+    size: "large",
     location: "",
-    sports: ""
+    sports: "DI",
+    region: "midwest"
   },
   {
     id: 67,
     schoolName: "Middlebury College",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/middlebury-college",
+    size: "small",
     location: "",
-    sports: ""
+    sports: "DIII",
+    region: "new englad"
   },
   {
     id: 68,
     schoolName: "University of Mississippi",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/university-of-mississippiunl",
+    size: "large",
     location: "",
-    sports: ""
+    sports: "DI",
+    region: "south"
   },
   {
     id: 69,
     schoolName: "University of Nebraska - Lincoln",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/unl",
+    size: "large",
     location: "",
-    sports: ""
+    sports: "DI",
+    region: "midwest"
   },
   {
     id: 70,
     schoolName: "New York University (NYU)",
-    link: "https://www.daytripperuniversity.com/dtuschool/",
-    size: "",
+    link: "https://www.daytripperuniversity.com/dtuschool/new-york-university",
+    size: "large",
     location: "",
-    sports: ""
+    sports: "DIII",
+    region: "mid-atlantic"
   },
   {
     id: 71,
